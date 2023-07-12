@@ -13,9 +13,11 @@
 ## Tutorial
 
 ## Main Repo
+https://github.com/hugofloresgarcia/vampnet
 
 ## Page
 
 ## Paper
+https://arxiv.org/abs/2307.04686
 
 ## Output
