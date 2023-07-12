@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/vampnet-colab/blob/main/vampnet_colab.ipynb) | vampnet_colab
 
 ## Tutorial
 
